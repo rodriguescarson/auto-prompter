@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodriguescarson/auto-prompter"
+    "url": "git+https://github.com/rodriguescarson/auto-prompter.git"
   },
   "author": "Your Name",
   "license": "MIT",
