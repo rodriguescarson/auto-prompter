@@ -1,6 +1,3 @@
----
-
-````md
 # 🎶 Lyrics Display
 
 A **React Native** component that dynamically displays lyrics with smooth animations.
@@ -143,5 +140,9 @@ This package is **open-source** under the [MIT License](LICENSE).
 ✅ **Troubleshooting guide** for common issues
 
 Let me know if you need any tweaks! 🚀
+```
+
+```
+
 ```
 ````
