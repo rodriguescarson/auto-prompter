@@ -1,5 +1,3 @@
-Here’s a detailed **README.md** with step-by-step instructions on how to use the `lyrics-display` component in a React Native project.
-
 ---
 
 ````md
@@ -25,6 +23,7 @@ A **React Native** component that dynamically displays lyrics with smooth animat
 ```sh
 npm install lyrics-display
 ```
+
 ````
 
 #### Using yarn:
@@ -145,3 +144,4 @@ This package is **open-source** under the [MIT License](LICENSE).
 
 Let me know if you need any tweaks! 🚀
 ```
+````
